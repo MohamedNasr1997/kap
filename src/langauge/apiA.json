@@ -1,0 +1,1068 @@
+{
+    "cars":[
+           {
+               "_id": "1",
+               "product":"car",
+               "category":"kapci",
+               "type":"ADDITIVES",
+               "title": "Kapci 616 Adflex Flexible Additive",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "2",
+               "product":"car",
+               "category":"kapci",
+               "type":"ANCILLARIES",
+               "title": "Kapci 615CN Adplast Plastic Primer",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "3",
+               "product":"car",
+               "category":"kapci",
+               "type":"BASECOATS",
+               "title": "Kapci Special Magic Colors",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "4",
+               "product":"car",
+               "category":"kapci",
+               "type":"CLEARCOATS",
+               "title": "Kapci 12000 2K Clearcoat",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "5",
+               "product":"car",
+               "category":"kapci",
+               "type":"ANCILLARIES",
+               "title": "Kapci 003 Paint Remover",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "6",
+               "product":"car",
+               "category":"dima",
+               "type":"THINNERS",
+               "title": "dima 9611 Blend-in",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "7",
+               "product":"car",
+               "category":"dima",
+               "type":"ANCILLARIES",
+               "title": "dima Degreaser 9605",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "8",
+               "product":"car",
+               "category":"latico",
+               "type":"CLEARCOATS",
+               "title": "Latico 5850 2K Clearcoat",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "9",
+               "product":"car",
+               "category":"latico",
+               "type":"BASECOATS",
+               "title": "Laticobase 5795 Ready Mixed Basecoat",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "10",
+               "product":"car",
+               "category":"kapci",
+               "type":"PAINT",
+               "title": "Kapcicryl 660 2K Acrylic Mixing System",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+               "_id": "11",
+               "product":"car",
+               "category":"latico",
+               "type":"UNDERBODY",
+               "title": "Latico 5100S Underbody",
+               "src": "img.png",
+               "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+               "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+             "_id": "12",
+             "product":"car",
+             "category":"latico",
+             "type":"PAINT",
+             "title": "Laticocryl 5700 2K Acrylic Paint",
+             "src": "img.png",
+             "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+             "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+             "_id": "13",
+             "product":"car",
+             "category":"latico",
+             "type":"PAINT",
+             "title": "Laticocryl 5720 2K Acrylic Paint-Ready Mixed",
+             "src": "img.png",
+             "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+             "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+             "_id": "14",
+             "product":"car",
+             "category":"dima",
+             "type":"THINNERS",
+             "title": "Latico 5100S Underbody",
+             "src": "img.png",
+             "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+             "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+             "_id": "15",
+             "product":"car",
+             "category":"kapci",
+             "type":"PRIMERS",
+             "title": "Kapci 800 1K Etch Primer",
+             "src": "img.png",
+             "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+             "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+             "_id": "16",
+             "product":"car",
+             "category":"kapci",
+             "type":"PRIMERS",
+             "title": "Kapci 880 2K Epoxy Primer",
+             "src": "img.png",
+             "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+             "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+            },
+            {
+             "_id": "17",
+             "product":"car",
+             "category":"kapci",
+             "type":"PUTTIES&BODY",
+             "title": "Kapci 350 PE Putty",
+             "src": "img.png",
+             "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+             "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           },
+           {
+             "_id": "18",
+             "product":"car",
+             "category":"kapci",
+             "type":"PUTTIES&BODY",
+             "title": "Kapci 355 Elastic PE Putty for plastic",
+             "src": "img.png",
+             "msds":"SDS_Kapci_6510_(GB).pdf",
+               "tds":"Kapci Dima Degreaser 9605.pdf",
+             "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           }
+ 
+ 
+           
+           ],
+     "woods":[
+               {
+                 "_id": "1",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Nitrocellulose",
+                 "title": "Kapci 1200 Crackle finish",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                },
+                {
+                 "_id": "2",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Nitrocellulose",
+                 "title": "Kapci 2000 HV NC Sealer",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "3",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Nitrocellulose",
+                 "title": "Kapci 2000 MV NC Sealer",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "4",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Nitrocellulose",
+                 "title": "Kapci 2001 NC Gloss clearcoat",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "5",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Polyester",
+                 "title": "Kapci 2200 PE Clear Sealer",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "6",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Polyester",
+                 "title": "Kapci 2202 PE White Sealer",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "7",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Polyester",
+                 "title": "Kapci 2250PE Lamination Coating Transparent",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "8",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Polyester",
+                 "title": "WS 700 PE Transparent Sealer",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "9",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Polyurethane",
+                 "title": "Kapci 2100 2K PU Insulator",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "10",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Polyurethane",
+                 "title": "Kapci 2300 2K PU High Gloss Clearcoat",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "11",
+                 "product":"wood",
+                 "category":"kapci",
+                 "type":"Polyurethane",
+                 "title": "Kapci 2130 2K PU Sealer",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "12",
+                 "product":"wood",
+                 "category":"latico",
+                 "type":"Other",
+                 "title": "Latico 6300 NC Clear Sealer for Interior",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "13",
+                 "product":"wood",
+                 "category":"latico",
+                 "type":"Other",
+                 "title": "Latico 6800 PE Clear Sealer for Interior",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                },
+                {
+                 "_id": "14",
+                 "product":"wood",
+                 "category":"latico",
+                 "type":"Other",
+                 "title": "Latico 6700 2K PU High Gloss Clearcoat",
+                 "src": "img.png",
+                 "msds":"SDS_Kapci_6510_(GB).pdf",
+                 "tds":"Kapci Dima Degreaser 9605.pdf",
+                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+           
+                }
+             
+         ],
+         "paints":[
+                   {
+                       "_id": "1",
+                       "product":"paint",
+                       "category":"kapci",
+                       "type":"Alkyd.Paints",
+                       "title": "Kapci 766 Matt",
+                       "src": "img.png",
+                       "msds":"SDS_Kapci_6510_(GB).pdf",
+                       "tds":"Kapci Dima Degreaser 9605.pdf",
+                       "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                       
+                   },
+                   {
+                       "_id": "2",
+                       "product":"paint",
+                       "category":"kapci",
+                       "type":"Alkyd.Paints",
+                       "title": "Kapci 770 Semi Gloss",
+                       "src": "img.png",
+                       "msds":"SDS_Kapci_6510_(GB).pdf",
+                       "tds":"Kapci Dima Degreaser 9605.pdf",
+                       "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                       
+                   },
+                   {
+                     "_id": "3",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Alkyd.Paints",
+                     "title": "Kapci 777 Lux",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "4",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Putties",
+                     "title": "Crack Filler 790",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "5",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Putties",
+                     "title": "Kapci Putty 749",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "6",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Putties",
+                     "title": "Kapci Putty 750",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "7",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Sealers",
+                     "title": "Kapci Sealer 751",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "8",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Sealers",
+                     "title": "Kapci Sealer 756",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "9",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Textures",
+                     "title": "Kapci Tex 7010",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "10",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Textures",
+                     "title": "Kapci Tex 7020",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "11",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Topcoats",
+                     "title": "Kapci Clear 752",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "12",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Topcoats",
+                     "title": "Kapci Sand Stone 7030",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "13",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Topcoats",
+                     "title": "Kapci Silk 720",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "14",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Undercoats",
+                     "title": "Kapci Coat 733",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   },
+                   {
+                     "_id": "15",
+                     "product":"paint",
+                     "category":"kapci",
+                     "type":"Effects",
+                     "title": "Kapci Reflect 780",
+                     "src": "img.png",
+                     "msds":"SDS_Kapci_6510_(GB).pdf",
+                     "tds":"Kapci Dima Degreaser 9605.pdf",
+                     "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on."
+                     
+                   }
+                 
+             ],
+             
+ 
+ 
+             "aboutUs":[ 
+                 {
+                     "title":"vision",
+                     "content":["In a highly competitive and rapidly developing market relying on research and technology, our vision is to be the market leader in Egypt for our full range of products and to become a global player in the field of car refinishes paints.As KAPCI COATINGS guiding principles are; Integrity, sustainability, investing in people and environmentally friendly products. It is committed to enhancing its services and performance and leading the market in Africa and the Middle East by 2012."]
+                     
+                 },
+                 {
+                     "title":"Certifications 2",
+                     "content":[
+                         "KAPCI COATINGS is certified for ISO 9001 – 2008 quality assurance system.",
+                         "The company is granted the ISO 14001 – 2004 .",
+                         "The company offering both certificates is the German company TUV.",
+                         "KAPCI Laboratories is certified for ISO/IEC 17025 : 2017, in physical mechanical testing of paints and varnishes",
+                         "Also KAPCI COATINGS has ISO 18001 for safety management."
+                     ]
+                 },
+                 {
+                     "title":"Certifications 3",
+                     "content":[
+                         "KAPCI COATINGS is certified for ISO 9001 – 2008 quality assurance system.",
+                         "The company is granted the ISO 14001 – 2004 .",
+                         "The company offering both certificates is the German company TUV.",
+                         "KAPCI Laboratories is certified for ISO/IEC 17025 : 2017, in physical mechanical testing of paints and varnishes",
+                         "Also KAPCI COATINGS has ISO 18001 for safety management."
+                     ]
+                 },
+                 {
+                     "title":"Exports",
+                     "content":["KAPCI COATINGS exports to more than 45 countries :"],
+                     "secoundry":[
+                         "Algeria","Brazil","Brazil","Brazil","Ethiopia","Ethiopia",
+                         "Brazil","Lebanon","Lebanon","Lebanon",
+                         "Ethiopia","Ghana","Ghana","Ghana","Ghana","Ghana","Ghana","Ghana","Ghana",
+                         "Ghana","Lebanon","Lebanon","Algeria","Brazil","Brazil","Brazil","Ethiopia","Ethiopia",
+                         "Brazil","Lebanon","Lebanon","Lebanon",
+                         "Ethiopia","Ghana","Ghana","Ghana","Ghana","Ghana","Ghana","Ghana","Ghana",
+                         "Ghana","Lebanon","Lebanon",
+                         "Lebanon"
+                     ]
+                 }
+             
+              ],
+ 
+             "contact":[
+                 
+                       {
+                 
+                     "country":"مصر",
+                     "title":"المركز الرئيسي",
+                     "img":"egypt.png",
+                     "adress":"بورسعيد المنطقه الصناعية",
+                     "email":["info@kapci.com"],
+                     "tel":["+2 066 377 0000"],
+                     "fax":"+2 066 377 0010",
+                     "location":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d218451.39341283927!2d32.27087650011132!3d31.18461041141778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4a47378d3545f5a!2z2LTYsdmD2Kkg2YPYp9io2LPZiSDZhNmE2K_Zh9in2YbYp9iq!5e0!3m2!1sar!2seg!4v1604264602675!5m2!1sar!2seg"
+                         },
+                 {
+                     "country":"البرازيل",
+                     "title":"Kapci do Brasil - Comércio de Tintas Ltda",
+                     "img":"brazil.png",
+                     "adress":"Rua Fidalga 700 São Paulo SP - 05432-000",
+                     "email":["info@kapci.com"],
+                     "tel":["+2 066 377 0000"],
+                     "fax":"+2 066 377 0010",
+                     "location":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d218451.39341283927!2d32.27087650011132!3d31.18461041141778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4a47378d3545f5a!2z2LTYsdmD2Kkg2YPYp9io2LPZiSDZhNmE2K_Zh9in2YbYp9iq!5e0!3m2!1sar!2seg!4v1604264602675!5m2!1sar!2seg"
+ 
+                          },
+                {
+                     "country":"الامارات",
+                     "title":"Kapci  Coatings FZE",
+                     "img":"uae.png",
+                     "adress":"JAFZA, LOB  17, Office # 135 POB: 262321, Dubai – U",
+                     "email":["info@kapci.com"],
+                     "tel":["+2 066 377 0000"],
+                     "fax":"+2 066 377 0010",
+                     "location":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d218451.39341283927!2d32.27087650011132!3d31.18461041141778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4a47378d3545f5a!2z2LTYsdmD2Kkg2YPYp9io2LPZiSDZhNmE2K_Zh9in2YbYp9iq!5e0!3m2!1sar!2seg!4v1604264602675!5m2!1sar!2seg"
+ 
+                       },
+                 {
+                     "country":"الهند",
+                     "title":"Kapci Coatings India Private Limited",
+                     "img":"india.png",
+                     "adress":"Plot No. 2A, Obdenahalli (D.B. Pura 3rd Phase) Kasaba, Doddaballapura, Bangalore – 561203, India.",
+                     "email":["info@kapci.com","info@kaddpci.com"],
+                     "tel":["+2 066 377 0000","+2 066 377 1100"],
+                     "fax":"+2 066 377 0010",
+                     "location":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d218451.39341283927!2d32.27087650011132!3d31.18461041141778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4a47378d3545f5a!2z2LTYsdmD2Kkg2YPYp9io2LPZiSDZhNmE2K_Zh9in2YbYp9iq!5e0!3m2!1sar!2seg!4v1604264602675!5m2!1sar!2seg"
+ 
+                         }
+                 
+             ],
+ 
+ 
+          "place":[
+            {
+             "country":"مصر",
+             "data":[
+                               {
+                               "city":"القاهرة",
+                               "branch":[
+                                         {
+                                           "name":"مركز صلاح سالم",
+                                           "adress":"العنوان",
+                                           "tel":"002012 - 558515"
+                                         },
+                                         {
+                                           "name":"مركز ابو العلا",
+                                           "adress":"خلف منسيه ناصر",
+                                           "tel":"002058515"
+                                         }
+                                       ]
+                             },
+                             {
+                               "city":"دمياط",
+                               "branch":[
+                                         {
+                                           "name":"الهنداوي",
+                                           "adress":"امام مسجد ادم",
+                                           "tel":"002012 - 558515"
+                                         },
+                                         {
+                                           "name":"هنيدي",
+                                           "adress":"الشعراء",
+                                           "tel":"002058515"
+                                         }
+                                       ]
+                             },
+                             {
+                               "city":"الاسكندرية",
+                               "branch":[
+                                         {
+                                           "name":"مركز 1",
+                                           "adress":"عنوان",
+                                           "tel":"002012 - 558515"
+                                         },
+                                         {
+                                           "name":"مركز 2",
+                                           "adress":"عنوان",
+                                           "tel":"002058515"
+                                         }
+                                       ]
+                             },
+                             {
+                                "city":"بورسعيد",
+                                "branch":[
+                                          {
+                                            "name":"مركز 1",
+                                            "adress":"عنوان",
+                                            "tel":"002012 - 558515"
+                                          },
+                                          {
+                                            "name":"مركز 2",
+                                            "adress":"عنوان",
+                                            "tel":"002058515"
+                                          }
+                                        ]
+                              }
+                   ] 
+            },
+            {
+             "country":"البرازيل",
+             "data":[
+                              {
+                              "city":"brazil",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            }
+                  ]
+           },
+           {
+             "country":"الامارات",
+             "data":[
+                              {
+                              "city":"Uae",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            }
+                  ]
+           },
+           {  
+             "country":"الهند",
+             "data":[
+                              {
+                              "city":"india",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            },
+                            {
+                              "city":"Cairo",
+                              "branch":[
+                                        {
+                                          "name":"centre",
+                                          "adress":"adress",
+                                          "tel":"002012 - 558515"
+                                        },
+                                        {
+                                          "name":"centre2",
+                                          "adress":"adress",
+                                          "tel":"002058515"
+                                        }
+                                      ]
+                            }
+                  ] 
+           }
+           
+          ],
+          
+    "question":{
+                 "title":{
+                          "car":"طلاء السيارات",
+                          "wood":"دهاناتالاخشاب",
+                          "paint":"دهانات المنازل"
+                         },
+                         
+                       
+ 
+                 "car":[
+                        {
+                           "q":"السؤال",
+                           "a":"الاجابه"
+                        },
+                        {
+                            "q":"السؤال",
+                            "a":"الاجابه"
+                         },
+                         {
+                            "q":"السؤال",
+                            "a":"الاجابه"
+                         },
+                         {
+                            "q":"السؤال",
+                            "a":"الاجابه"
+                         },
+                         {
+                            "q":"السؤال",
+                            "a":"الاجابه"
+                         },
+                         {
+                            "q":"السؤال",
+                            "a":"الاجابه"
+                         },
+                         {
+                            "q":"السؤال",
+                            "a":"الاجابه"
+                         }
+                       ],
+                "wood":[
+                    {
+                        "q":"السؤال",
+                        "a":"الاجابه"
+                     },
+                     {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      }
+                        ],
+                "paint":[
+                    {
+                        "q":"السؤال",
+                        "a":"الاجابه"
+                     },
+                     {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      },
+                      {
+                         "q":"السؤال",
+                         "a":"الاجابه"
+                      }
+                        ]
+               },
+ 
+           
+         "troubleshooting":[
+               {
+                 "name":"مشكلة التصاق - معجون بوليستر ",
+                 "pdf":"test.pdf"
+               },
+               {
+                 "name":"مشكلة التصاق - معجون بوليستر ",
+                 "pdf":"test.pdf"
+               },
+               {
+                 "name":"مشكلة التصاق - معجون بوليستر ",
+                 "pdf":"test.pdf"
+               },
+               {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              },
+              {
+                "name":"مشكلة التصاق - معجون بوليستر ",
+                "pdf":"test.pdf"
+              }
+ 
+         ]
+ 
+ 
+ 
+ 
+ 
+ }
